@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const mongoUrl = "mongodb+srv://vaibhavshelke218:pass123@taskmanager.m8tbx.mongodb.net/taskmanager?retryWrites=true&w=majority&appName=taskManager";
+const mongoUrl = "mongodb+srv://vaibhavshelke218:aVQ0mwMfgAxckLNh@taskmanager.m8tbx.mongodb.net/?retryWrites=true&w=majority&appName=taskManager";
 
 const connectToMongo = async () => {
   try {
